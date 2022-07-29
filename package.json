@@ -1,0 +1,30 @@
+{
+  "name": "nodejs1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maluonglinh2001/nodejs_1.git"
+  },
+  "keywords": [
+    "f8",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maluonglinh2001/nodejs_1/issues"
+  },
+  "homepage": "https://github.com/maluonglinh2001/nodejs_1#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
